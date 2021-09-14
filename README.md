@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pydevnepal
 - 👀 I’m interested in traning machines
-- 🌱 I’m currently learning Python, C++, Java and GO
-- 💞️ I’m looking to collaborate on any Natural language processing related projects.
+- 🌱 I’m currently exploring Dcentralized world
+- 💞️ I’m looking to collaborate on any blockchain related projects.
 - 📫 How to reach me, ping me on khatriamit054@gmail.com
 
 <!---
