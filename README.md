@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pydevnepal
 - 👀 I’m interested in traning machines
 - 🌱 I’m currently exploring Dcentralized world
-- 💞️ I’m looking to collaborate on any blockchain related projects.
+- 💞️ I’m learning RUST to make python better.
 - 📫 How to reach me, ping me on khatriamit054@gmail.com
 
 <!---
